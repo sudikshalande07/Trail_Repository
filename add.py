@@ -1,4 +1,4 @@
-#this is remote changes
+#these are remote changes
 
 a = 110
 b = 100
